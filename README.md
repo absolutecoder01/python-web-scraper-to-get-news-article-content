@@ -16,7 +16,11 @@ To make project work, you need to download libraries:
 
 - Just open main.py
 
+## Look
+![af8577b2-79a3-4496-bb2c-066921a2c338](https://github.com/user-attachments/assets/92ddf7b1-b0b0-4b4b-81b1-fb1fd8a709dd)
+
+
 
 ## Authors
-- [@absolute](https://github.com/absolutecoder01)
+- [@absolutecoder01](https://github.com/absolutecoder01)
 - [@dz1to4ka](https://github.com/illiaBabak)
